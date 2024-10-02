@@ -1,4 +1,4 @@
-""" mayapythonprojecttemplate package. """
+""" locator creator package. """
 
 from maya import cmds
 
