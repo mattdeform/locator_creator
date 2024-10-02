@@ -1,4 +1,4 @@
-site_name: {{SITE_NAME}}
+site_name: locator_creator
 theme:
   name: material
   language: en
